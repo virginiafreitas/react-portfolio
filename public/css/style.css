@@ -1,0 +1,71 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-color {
+    background-color: #ddd1c1;
+    color: rgb(0, 0, 0);
+    padding: 3rem;
+}
+
+.nav-tabs {
+    background-color: #9fa388;
+}
+
+.nav-item a {
+    color: white;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.form-style {
+    background-color: #9c9c8e;
+    padding: 1rem;
+    margin-top: 2rem;
+    font-weight: bolder;
+}
+
+div.card {
+    background-color: #9fa388;
+    border: black 3px solid;
+}
+
+li.list-group-item-primary {
+    background-color: #415A77;
+    color: white;
+}
+
+
+
+#skills-list {
+    text-align: center; /* Center align the content */
+  }
+  
+  /* Style the button */
+  button {
+    background-color: #007BFF; /* Change the background color */
+    color: #fff; /* Change the text color */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-bottom: 20px; /* Add some space below the button */
+  }
+  
+  /* Style the list header */
+ #coding-skills {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Style the list */
+  ul {
+    list-style: none; /* Remove the default list bullets */
+    padding: 0;
+  }
+  
+  /* Style list items */
+  li {
+    font-size: 16px;
+    margin: 10px 0; /* Add vertical space between list items */
+  }
+  

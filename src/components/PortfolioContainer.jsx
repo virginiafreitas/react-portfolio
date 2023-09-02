@@ -1,9 +1,10 @@
 import { useState } from 'react';
 import NavTabs from './NavTabs';
-import Resume from './pages/Resume';
 import AboutMe from './pages/AboutMe';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
+import Resume from './pages/Resume';
+import Footer from './pages/Footer';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('AboutMe');
@@ -22,18 +23,7 @@ export default function PortfolioContainer() {
     return <Contact />;
   };
 
-  // const renderPage = () => {
-  //   switch (currentPage) {
-  //     case 'Home':
-  //       return <Home />;
-  //     case 'About':
-  //       return <About />;
-  //     case 'Blog':
-  //       return <Blog />;
-  //     default:
-  //       return <Contact />;
-  //   }
-  // };
+
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (

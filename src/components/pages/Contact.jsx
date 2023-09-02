@@ -76,7 +76,7 @@ export default function Form() {
       type="email"
       className="form-control" 
       placeholder="youremailhere@example.com"></input>
-    {emailTouched && !email && <p className="error-text">Email is required</p>}
+    {emailTouched && !email && <p className="error-text">This field is required!</p>}
   </div>
   <div className="mb-3">
     <label className="form-label">Name</label>
@@ -88,7 +88,7 @@ export default function Form() {
       type="text"
       className="form-control" 
       placeholder="Your name Here"></input>
-    {nameTouched && !name && <p className="error-text">Name is required</p>}
+    {nameTouched && !name && <p className="error-text">This field is required!</p>}
   </div>
   <div className="mb-3">
     <label className="form-label">Message</label>
@@ -102,7 +102,7 @@ export default function Form() {
       placeholder="Type Message Here"
       rows="3">
     </textarea>
-    {messageTouched && !message && <p className="error-text">Message is required</p>}
+    {messageTouched && !message && <p className="error-text">This field is required!</p>}
     </div>
     <button type="submit" className="btn btn-primary">Submit</button>
     {errorMessage && (

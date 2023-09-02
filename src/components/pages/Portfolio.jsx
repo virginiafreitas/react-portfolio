@@ -1,8 +1,3 @@
-//               <li><a href="https://tranquil-harbor-96082-b2b4a591ce66.herokuapp.com/">Text Editor ∣ </a><a href="https://github.com/virginiafreitas/text-editor">Github</a></li>
-//           <div class="column auto">
-//               <li><a href="https://github.com/virginiafreitas/readme-generator">Readme Generator  ∣  </a><a href="https://github.com/virginiafreitas/readme-generator">Github</a></li>
-//               <li><a href="https://gist.github.com/virginiafreitas/6e403afbb8775d9c3412f3aa4ece7e9f#anchors">Regex Tutorial for URL Analyzis</a></li>
-
 
   export default function Portfolio() {
     return(
