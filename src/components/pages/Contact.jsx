@@ -87,7 +87,7 @@ export default function Form() {
       onBlur={handleInputBlur}
       type="text"
       className="form-control" 
-      placeholder="Virginia Freitas"></input>
+      placeholder="Your name Here"></input>
     {nameTouched && !name && <p className="error-text">Name is required</p>}
   </div>
   <div className="mb-3">

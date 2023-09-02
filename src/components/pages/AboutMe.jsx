@@ -3,7 +3,6 @@ import headshot from "../../../public/headshot.jpg"
 export default function AboutMe() {
     return (
       <div>
-        <h1>About Me Page</h1>
         <img src={headshot} className="img-fluid rounded-start" alt="Profile Photo"></img>
         <p>
         Meet Virginia Freitas, a versatile professional with a solid background in civil engineering and a passion for technology.
