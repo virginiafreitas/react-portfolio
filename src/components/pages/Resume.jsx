@@ -19,13 +19,25 @@ export default function Resume () {
             <li>HTML 5</li>
             <li>CSS</li>
             <li>Javascript</li>
+            <li>React</li>
             <li>Python</li>
             <li>Node.js</li>
+            <li>SQL</li>
+            <li>MERN</li>
+            <li>State</li>
+            <li>MongoDB</li>
+            <li>Insomnia</li>
+            <li>Express.js</li>
+            <li>Computer Science for JavaScript</li>
+            <li>NoSQL</li>
+            <li>Progressive Web Applications (PWA)</li>
             <li>Developer Tools</li>
             <li>Web API</li>
             <li>Server Side API</li>
             <li>Third Party API</li>
-            <li>OOP (Object-Oriented Programming)</li>
+            <li>Object-Oriented Programming (OOP)</li>
+            <li>Object-Relational Mapping (ORM) </li>
+            <li>Model-View Controller (MVC)</li>
             <li>Bootstrap</li>
             <li>Bulma</li>
             <li>jQuery</li>
@@ -38,6 +50,7 @@ export default function Resume () {
             <li>AJAX</li>
             <li>Fetch</li>
             <li>JSON</li>
+            <li>Draggable</li>
         </ul>
     </div>
     )
