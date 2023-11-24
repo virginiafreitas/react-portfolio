@@ -8,6 +8,8 @@
     padding: 3rem;
 }
 
+
+
 .nav-tabs {
     background-color: #9fa388;
 }
@@ -69,3 +71,47 @@ li.list-group-item-primary {
     margin: 10px 0; /* Add vertical space between list items */
   }
   
+
+.headshot {
+  float: right;
+  display: inline;
+  margin: 60px 0px 60px 20px;
+}
+
+section {
+  margin: 20px 0px;
+}
+
+#inline {
+  display: inline;
+}
+
+footer {
+  margin: 30px 0px 0px 0px;
+}
+
+.contact-me-margin {
+  margin: 10px;
+}
+
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+table {
+  margin: 15px;
+}
+
+.download-btn {
+  margin:20px;
+}
+
+.card-img-top {
+  height: 200px;
+}
+
+.container {
+  margin-top: 20px;
+}

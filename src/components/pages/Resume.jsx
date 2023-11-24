@@ -13,45 +13,20 @@ export default function Resume () {
     return (
 
     <div id="skills-list">
-        <button onClick={handleDownload}>Download Resume PDF</button>
+        <button class="download-btn" onClick={handleDownload}>Download Resume PDF</button>
         <h2 class="coding-skills">Coding Skills</h2>
-        <ul>
-            <li>HTML 5</li>
-            <li>CSS</li>
-            <li>Javascript</li>
-            <li>React</li>
-            <li>Python</li>
-            <li>Node.js</li>
-            <li>SQL</li>
-            <li>MERN</li>
-            <li>State</li>
-            <li>MongoDB</li>
-            <li>Insomnia</li>
-            <li>Express.js</li>
-            <li>Computer Science for JavaScript</li>
-            <li>NoSQL</li>
-            <li>Progressive Web Applications (PWA)</li>
-            <li>Developer Tools</li>
-            <li>Web API</li>
-            <li>Server Side API</li>
-            <li>Third Party API</li>
-            <li>Object-Oriented Programming (OOP)</li>
-            <li>Object-Relational Mapping (ORM) </li>
-            <li>Model-View Controller (MVC)</li>
-            <li>Bootstrap</li>
-            <li>Bulma</li>
-            <li>jQuery</li>
-            <li>Git Bash</li>
-            <li>Problem-solving</li>
-            <li>Pseudocoding</li>
-            <li>Command Line</li>
-            <li>GitHub</li>
-            <li>Day.js</li>
-            <li>AJAX</li>
-            <li>Fetch</li>
-            <li>JSON</li>
-            <li>Draggable</li>
-        </ul>
+        
+        <table border="1">
+            <tr><td>HTML 5</td><td>CSS</td><td>Javascript</td><td>Object-Oriented Programming (OOP)</td><td>Python</td></tr>
+            <tr><td>Java</td><td>Spring</td><td>Gradle</td><td>Amazon Web Services (AWS)</td><td>Azure</td></tr>
+            <tr><td>Node.js</td><td>SQL</td><td>MERN</td><td>Object-Relational Mapping (ORM)</td><td>MongoDB</td></tr>
+            <tr><td>Express.js</td><td>AJAX</td><td>NoSQL</td><td>Progressive Web Applications (PWA)</td><td>Fetch</td></tr>
+            <tr><td>Web API</td><td>State</td><td>jQuery</td><td>Model-View Controller (MVC)</td><td>Day.js</td></tr>
+            <tr><td>Server Side API</td><td>Git Bash</td><td>Computer Science</td><td>Developer Tools</td><td>JSON</td></tr>
+            <tr><td>Third Party API</td><td>Bootstrap</td><td>Problem-solving</td><td>Draggable</td><td>Insomnia</td></tr>
+            <tr><td>React</td><td>Bulma</td><td>Pseudocoding</td><td>Command Line</td><td>GitHub</td></tr>
+        </table>
+
     </div>
     )
 }

@@ -105,10 +105,10 @@
 
             <div className="col">
               <div className="card">
-                <img src="../../images/Horiseon.png" class="card-img-top" alt="..."></img>
+                <img src="../../images/social-network.png" class="card-img-top" alt="..."></img>
                 <div className="card-body">
                 <h5 className="card-title">Social Network Backend</h5>
-                <a href="https://virginiafreitas.github.io/code-refactor-challenge/" target="_blank" className="card-link">Website</a>
+                <a href="https://github.com/virginiafreitas/social-network" target="_blank" className="card-link">Website</a>
                 <a href="https://drive.google.com/file/d/1pqqa-XCoU99IAJY0qNJvDcsDO7AThHPK/view" target="_blank" className="card-link">Demo</a>
                 </div>
               </div>
