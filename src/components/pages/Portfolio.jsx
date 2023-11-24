@@ -42,44 +42,6 @@
 
           </div>
         
-
-          <div className="row row-cols-3 g-4 mb-4">
-
-            <div className="col">
-              <div className="card">
-                <img src="../../images/weather-dashboard.png" class="card-img-top" alt="..."></img>
-                <div className="card-body">
-                <h5 className="card-title">Weather Forecast</h5>
-                <a href="https://virginiafreitas.github.io/weather-dashboard/" target="_blank" className="card-link">Website</a>
-                <a href="https://github.com/virginiafreitas/weather-dashboard" target="_blank" className="card-link">GitHub</a>
-                </div>
-              </div>
-            </div>
-
-            <div className="col">
-              <div className="card">
-                <img src="../../images/code-quiz.png" class="card-img-top" alt="..."></img>
-                <div className="card-body">
-                <h5 className="card-title">Code Quiz</h5>
-                <a href="https://virginiafreitas.github.io/code-quiz/" target="_blank" className="card-link">Deployed Website</a>
-                <a href="https://github.com/virginiafreitas/code-quiz" target="_blank" className="card-link">GitHub Repo</a>
-                </div>
-              </div>
-            </div>
-
-            <div className="col">
-              <div className="card">
-                <img src="../../images/password-generator.png" class="card-img-top" alt="..."></img>
-                <div className="card-body">
-                <h5 className="card-title">Password Generator</h5>
-                <a href="https://virginiafreitas.github.io/password-generator/" target="_blank" className="card-link">Website</a>
-                <a href="https://github.com/virginiafreitas/password-generator" target="_blank" className="card-link">GitHub</a>
-                </div>
-              </div>
-            </div>
-
-          </div>
-
           <div className="row row-cols-3 g-4 mb-4">
 
             <div className="col">
@@ -119,28 +81,81 @@
           <div className="row row-cols-3 g-4 mb-4">
 
             <div className="col">
-              <div className="card">
-                <img src="../../images/workday-schedule.png" class="card-img-top" alt="..."></img>
-                <div className="card-body">
-                <h5 className="card-title">Workday Schedule</h5>
-                <a href="https://virginiafreitas.github.io/workday-schedule/" target="_blank" className="card-link">Website</a>
-                <a href="https://github.com/virginiafreitas/workday-schedule" target="_blank" className="card-link">GitHub</a>
+                <div className="card">
+                  <img src="../../images/text-editor.png" class="card-img-top" alt="..."></img>
+                  <div className="card-body">
+                  <h5 className="card-title">Text Editor</h5>
+                  <a href="https://tranquil-harbor-96082-b2b4a591ce66.herokuapp.com/" target="_blank" className="card-link">Website</a>
+                  <a href="https://github.com/virginiafreitas/text-editor" target="_blank" className="card-link">GitHub</a>
+                  </div>
                 </div>
               </div>
-            </div>
 
-            <div className="col">
-              <div className="card">
-                <img src="../../images/Horiseon.png" class="card-img-top" alt="..."></img>
-                <div className="card-body">
-                <h5 className="card-title">Refactor: accessibility & SEO</h5>
-                <a href="https://virginiafreitas.github.io/code-refactor-challenge/" target="_blank" className="card-link">Website</a>
-                <a href="https://github.com/virginiafreitas/code-refactor-challenge" target="_blank" className="card-link">GitHub</a>
+              <div className="col">
+                <div className="card">
+                  <img src="../../images/workday-schedule.png" class="card-img-top" alt="..."></img>
+                  <div className="card-body">
+                  <h5 className="card-title">Workday Schedule</h5>
+                  <a href="https://virginiafreitas.github.io/workday-schedule/" target="_blank" className="card-link">Website</a>
+                  <a href="https://github.com/virginiafreitas/workday-schedule" target="_blank" className="card-link">GitHub</a>
+                  </div>
                 </div>
               </div>
-            </div>
+
+              <div className="col">
+                <div className="card">
+                  <img src="../../images/Horiseon.png" class="card-img-top" alt="..."></img>
+                  <div className="card-body">
+                  <h5 className="card-title">Refactor: accessibility & SEO</h5>
+                  <a href="https://virginiafreitas.github.io/code-refactor-challenge/" target="_blank" className="card-link">Website</a>
+                  <a href="https://github.com/virginiafreitas/code-refactor-challenge" target="_blank" className="card-link">GitHub</a>
+                  </div>
+                </div>
+              </div>
 
           </div>
+
+
+          
+          <div className="row row-cols-3 g-4 mb-4">
+
+            <div className="col">
+                <div className="card">
+                  <img src="../../images/note-taker.png" class="card-img-top" alt="..."></img>
+                  <div className="card-body">
+                  <h5 className="card-title">Note Taker</h5>
+                  <a href="https://sheltered-depths-05983-c3b5f6fbd222.herokuapp.com/" target="_blank" className="card-link">Website</a>
+                  <a href="https://github.com/virginiafreitas/note-taker" target="_blank" className="card-link">GitHub</a>
+                  </div>
+                </div>
+              </div>
+
+
+              <div className="col">
+                <div className="card">
+                  <img src="../../images/logo-maker.png" class="card-img-top" alt="..."></img>
+                  <div className="card-body">
+                  <h5 className="card-title">Logo Maker</h5>
+                  <a href="https://github.com/virginiafreitas/logo-maker" target="_blank" className="card-link">GitHub</a>
+                  </div>
+                </div>
+              </div>
+
+              <div className="col">
+                <div className="card">
+                  <img src="../../images/readme-generator.png" class="card-img-top" alt="..."></img>
+                  <div className="card-body">
+                  <h5 className="card-title">Readme Generator</h5>
+                  <a href="https://github.com/virginiafreitas/readme-generator" target="_blank" className="card-link">GitHub</a>
+                  <a href="https://drive.google.com/file/d/12neqImVcGug2ioD2r5KBHrpu-XV5zKH7/view" target="_blank" className="card-link">Demo</a>
+                  </div>
+                </div>
+              </div>
+
+          </div>
+
+
+
 
 
         </div>
