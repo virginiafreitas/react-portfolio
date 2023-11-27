@@ -1,5 +1,6 @@
 * {
     font-family: 'Poppins', sans-serif;
+    max-width: 100vp;
 }
 
 .header-color {
@@ -7,8 +8,6 @@
     color: rgb(0, 0, 0);
     padding: 3rem;
 }
-
-
 
 .nav-tabs {
     background-color: #9fa388;
@@ -24,7 +23,10 @@
     background-color: #9c9c8e;
     padding: 1rem;
     margin-top: 2rem;
+    margin-right: auto;
+    margin-left: auto;
     font-weight: bolder;
+    width: 600px;
 }
 
 div.card {
@@ -37,45 +39,37 @@ li.list-group-item-primary {
     color: white;
 }
 
-
-
 #skills-list {
     text-align: center; /* Center align the content */
-  }
-  
-  /* Style the button */
-  button {
-    background-color: #007BFF; /* Change the background color */
-    color: #fff; /* Change the text color */
-    border: none;
-    padding: 10px 20px;
-    font-size: 16px;
-    margin-bottom: 20px; /* Add some space below the button */
-  }
-  
-  /* Style the list header */
- #coding-skills {
-    font-size: 24px;
-    color: #333;
-  }
-  
-  /* Style the list */
-  ul {
-    list-style: none; /* Remove the default list bullets */
-    padding: 0;
-  }
-  
-  /* Style list items */
-  li {
-    font-size: 16px;
-    margin: 10px 0; /* Add vertical space between list items */
-  }
-  
+}
+
+/* Style the button */
+button {
+  background-color: #007BFF; /* Change the background color */
+  color: #fff; /* Change the text color */
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-bottom: 20px; /* Add some space below the button */
+}
+
+/* Style the list header */
+#coding-skills {
+  font-size: 24px;
+  color: #333;
+}
+
+/* Style list items */
+li {
+  font-size: 16px;
+  margin: 10px 0; /* Add vertical space between list items */
+  text-align: center;
+}
 
 .headshot {
   float: right;
   display: inline;
-  margin: 60px 0px 60px 20px;
+margin: 60px 0px 60px 20px;
 }
 
 section {
@@ -101,7 +95,8 @@ td {
 }
 
 table {
-  margin: 15px;
+  margin: auto;
+  margin-top: 25px;
 }
 
 .download-btn {
@@ -114,4 +109,12 @@ table {
 
 .container {
   margin-top: 20px;
+}
+
+.nav-tabs {
+  margin: 0px 0px 0px 0px;
+  padding: 0 0 0 0;
+  width: 1216px;
+  position: relative;
+  left: 0;
 }
