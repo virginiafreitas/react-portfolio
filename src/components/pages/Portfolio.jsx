@@ -155,7 +155,20 @@
           </div>
 
 
+          <div className="row row-cols-3 g-4 mb-4">
 
+            <div className="col">
+                <div className="card">
+                  <img src="../../images/mobile.png" class="card-img-top" alt="..."></img>
+                  <div className="card-body">
+                  <h5 className="card-title">Mobile-Responsive App</h5>
+                  <a href="https://virginiafreitas.github.io/wemake-cloud/" target="_blank" className="card-link">Website</a>
+                  <a href="https://github.com/virginiafreitas/wemake-cloud" target="_blank" className="card-link">GitHub</a>
+                  </div>
+                </div>
+              </div>
+
+          </div>
 
 
         </div>

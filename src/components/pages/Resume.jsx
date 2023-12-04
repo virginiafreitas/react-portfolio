@@ -25,6 +25,9 @@ export default function Resume () {
             <tr><td>Server Side API</td><td>Git Bash</td><td>Draggable</td><td>Developer Tools</td><td>JSON</td></tr>
             <tr><td>Third Party API</td><td>Bootstrap</td><td>Problem-solving</td><td>Computer Science</td><td>Insomnia</td></tr>
             <tr><td>Web API</td><td>Bulma</td><td>Pseudocoding</td><td>Command Line</td><td>GitHub</td></tr>
+            <tr><td>Vue.js</td><td>C#</td><td>Angular</td><td>PostgreSQL</td><td>Next.js</td></tr>
+            <tr><td>Maven</td><td>.Net</td><td>TypeScript</td><td>Github Copilot</td><td>GraphQL</td></tr>
+
         </table>
 
     </div>
